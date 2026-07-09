@@ -1,8 +1,11 @@
 # VALETs
 
 This is the codebase for the paper:
+> Sofiya Zbaranska, Aditya Rajeev, Sheena A. Josselyn, Brokoslaw Laschowski. "A Brain-Inspired Framework for Memory Prioritization in Neural Networks Based on Valence." 2026, University of Toronto
 
-> Zbaranska S., Rajeev A., Josselyn S.A., Laschowski B. "A Brain-Inspired Framework for Memory Prioritization in Neural Networks Based on Valence." 2026
+**Abstract:** Improving long-term memory in artificial neural networks remains an open challenge. To address this, we developed a novel brain-inspired framework for memory prioritization based on the principle of emotional valence. Our framework includes: (i) a valence-weighted cross-entropy loss that scales the learning signal by the valence magnitude, analogous to neuromodulation; (ii) an amygdala-inspired module that learns high-dimensional valence embeddings; and (iii) a hippocampus-inspired module that integrates valence embeddings into the attention mechanism to modulate information retrieval. We demonstrated the generalization of our framework across spatial, episodic, and language-based memory tasks, consistently improving memory prioritization and long-term retention of high-salience information. In addition to improving long-term memory, we also showed that our framework can help mitigate the “lost-in-the-middle” problem in language modeling. More generally, this research provides further evidence of the potential of brain-inspired algorithms to advance the field of machine learning.
+
+[[Paper]](https://www.biorxiv.org/content/10.64898/2026.05.05.723022v1.full.pdf)
 
 All experiments were run on an NVIDIA H100 with 32 GB RAM.
 
