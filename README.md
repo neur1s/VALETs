@@ -42,3 +42,5 @@ All three settings share the same set of model variants:
 - `no_wce_valence_embed_attn`: valence embedder and valence injection into attention but without WCE
 
 See the per-directory READMEs for implementation details.
+
+Supervised by Prof. Laschowski: (https://github.com/DrLaschowski)[https://github.com/DrLaschowski]
