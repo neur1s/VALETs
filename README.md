@@ -7,6 +7,8 @@ This is the codebase for the paper:
 
 [[Paper]](https://www.biorxiv.org/content/10.64898/2026.05.05.723022v1.full.pdf)
 
+Supervised by [@DrLaschowski](https://github.com/DrLaschowski) leading [@Comp-Neuro-Lab](https://github.com/Comp-Neuro-Lab). 
+
 All experiments were run on an NVIDIA H100 with 32 GB RAM.
 
 Three experimental settings are included, each with a `baseline` variant and one or more valence-augmented variants:
@@ -42,5 +44,3 @@ All three settings share the same set of model variants:
 - `no_wce_valence_embed_attn`: valence embedder and valence injection into attention but without WCE
 
 See the per-directory READMEs for implementation details.
-
-Supervised by Prof. Laschowski: [https://github.com/DrLaschowski](https://github.com/DrLaschowski)
