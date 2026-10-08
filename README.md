@@ -43,4 +43,4 @@ All three settings share the same set of model variants:
 
 See the per-directory READMEs for implementation details.
 
-Supervised by Prof. Laschowski: (https://github.com/DrLaschowski)[https://github.com/DrLaschowski]
+Supervised by Prof. Laschowski: [https://github.com/DrLaschowski](https://github.com/DrLaschowski)
